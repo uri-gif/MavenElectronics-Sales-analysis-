@@ -30,7 +30,8 @@
 
 ## Insight Deep Dives 
 ## I. Sales Analysis
-|<img width="269" height="172" alt="image" src="https://github.com/user-attachments/assets/a26c5a62-f80e-41ed-b733-04bf6e7599ce" /> |
+| <img width="296" height="170" alt="image" src="https://github.com/user-attachments/assets/5c600ff6-0ae5-40c1-bbb1-3f84485a8eb6" /> | 
+
 
 
 
@@ -100,7 +101,7 @@ ________________________________________
 
 •	Games and Toys was the weakest category across all regions, with sales close to zero in several markets.
 
-## Recommendations
+##                                                                        Recommendations
 Based on the uncovered insights, here are actionable steps from our analysis 
 **Sales**
 •	Mitigate recurring revenue declines in Q2 (February–April) through targeted demand-stimulation strategies.

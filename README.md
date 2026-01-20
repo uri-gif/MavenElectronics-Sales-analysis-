@@ -59,7 +59,9 @@
 
 •	Overall, order frequency—not transaction value—was the primary driver of revenue fluctuations.
 
-## II. Product Performance
+## **II. Product Performance**
+<img width="1122" height="577" alt="image" src="https://github.com/user-attachments/assets/a8bad013-8ab4-4208-a989-975069947c30" />
+
 **1) Best and Worst Performing Categories**
 •	Computers consistently generated the highest revenue, totaling $19.3M, with peak performance in 2019.
 

@@ -91,6 +91,7 @@ o	TV & Video (~$1.8K)
 
 <img width="900" height="506" alt="image" src="https://github.com/user-attachments/assets/307d463f-a340-4753-997b-a30eb1fe9d58" />
 ________________________________________
+
 ##                                                                   Regional Performance
 •	The United States was the top-performing market, contributing 42.6% of total revenue, followed by Online sales and the UK.
 

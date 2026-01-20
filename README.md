@@ -30,8 +30,8 @@
 
 ## Insight Deep Dives 
 ## I. Sales Analysis
-| <img width="666" height="405" alt="image" src="https://github.com/user-attachments/assets/e667eedd-34cf-4b65-a494-b49dc06bec68" />
- | | <img width="718" height="465" alt="image" src="https://github.com/user-attachments/assets/5eae5a85-0d9b-4393-b20b-ee2c10fe7a85" /> |
+| <img width="600" height="405" alt="image" src="https://github.com/user-attachments/assets/e667eedd-34cf-4b65-a494-b49dc06bec68" />
+ | | <img width="600" height="465" alt="image" src="https://github.com/user-attachments/assets/5eae5a85-0d9b-4393-b20b-ee2c10fe7a85" /> |
 
 
 

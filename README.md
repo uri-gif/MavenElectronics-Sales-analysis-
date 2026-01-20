@@ -88,6 +88,8 @@ o	TV & Video (~$1.8K)
 •	Computers and Home Appliances were the strongest Q4 performers.
 
 •	Sales typically dipped in Q1, following the holiday season.
+<img width="500" height="506" alt="image" src="https://github.com/user-attachments/assets/307d463f-a340-4753-997b-a30eb1fe9d58" />
+
 ________________________________________
 ##                                                                   Regional Performance
 •	The United States was the top-performing market, contributing 42.6% of total revenue, followed by Online sales and the UK.

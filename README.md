@@ -136,9 +136,7 @@ Computers were the top-performing category across all regions, indicating strong
 
 
 
-| column A | COLUMN B |
-| --- | --- |
-| CELL1 | CEll2 |
+
 
 
 

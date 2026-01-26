@@ -109,7 +109,7 @@ o	TV & Video (~$1.8K)
 
 •	Sales typically dipped in Q1, following the holiday season.
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/307d463f-a340-4753-997b-a30eb1fe9d58" /> <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8f219b31-83a4-47a3-98f8-7c7dc0347f7b" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/307d463f-a340-4753-997b-a30eb1fe9d58" /> <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8f219b31-83a4-47a3-98f8-7c7dc0347f7b" />
 
 ________________________________________
 

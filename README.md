@@ -44,6 +44,7 @@ Regional results - Evaluating regional demand and product performance within reg
 ## Insight Deep Dives 
 ## I. Sales Analysis
 **1) Sales Trends**
+
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/ca59df53-c992-4e32-a071-2de2fb5f951c" />
 
 • From 2016 to 2019, sales followed a strong upward trajectory, particularly in Q4, with December consistently recording the highest revenue.
@@ -55,6 +56,7 @@ Regional results - Evaluating regional demand and product performance within reg
 •	While December 2020 showed a modest uptick, likely driven by the holiday season, it remained significantly below historical levels, and the downward trend persisted into February 2021.
 
 **2) Average Order Value (AOV)**
+
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/5eae5a85-0d9b-4393-b20b-ee2c10fe7a85" />
 
 •	AOV declined steadily from $2.4K in 2016 to approximately $2.0K by early 2020, indicating that customers spent less per transaction over time.
@@ -66,6 +68,7 @@ Regional results - Evaluating regional demand and product performance within reg
 •	In 2020–2021, AOV began to rise again, though Q4 2020 recorded the lowest AOV ($1.8K), signaling reduced holiday spending per transaction.
 
 **3) Order Count**
+
 <img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/e667eedd-34cf-4b65-a494-b49dc06bec68" />
 •	Order volume closely mirrored revenue trends, confirming that the 2020 revenue decline was primarily driven by fewer orders rather than AOV.
 

@@ -1,3 +1,14 @@
+## Client Summary ##
+Maven Electronics is a US-based e-commerce company that sells popular consumer electronics and accessories to a global clientele. Established in 2016, the company has grown and expanded in the last few years, it has encountered increasing competition from peer companies as well as unique challenges and opportunities brought on by the COVID-19 pandemic.
+
+TechSphere's book of business is approaching 15,260 customers and possesses over 26,326 transactions, generating sales revenue exceeding $55 million. The available eCommerce data spans various dimensions and metrics, including sales, products, sales by regions, calendar and the company's store.
+
+Reporting to the Head of Operations, an in-depth analysis was conducted to evaluate Maven Electronic’s performance over the past several years (2016–2021). This comprehensive review provides valuable insights that internal cross-functional teams will utilize to streamline processes and enhance Maven Electronics’ commercial performance. The key insights and recommendations focus on the following areas:
+## North Star Metric ##
+Sales trends - Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV).
+Product performance - Analyzing different product categories, market impact,  to inform strategic product decisions.
+Regional results - Evaluating regional demand and product performance within regions to identify areas for improvement.
+
 ## **EXECUTIVE SUMMARY**
 <img width="1500" height="754" alt="image" src="https://github.com/user-attachments/assets/13a5b8f0-b97f-4325-8ea4-d9dee163ee96" />
 
@@ -27,6 +38,8 @@
 •	Investigate recurring April declines to identify root causes and implement targeted mitigation strategies.
 
 •	Rebuild post-pandemic momentum by focusing on customer engagement, pricing optimization, and promotional effectiveness.
+## Dataset Structure and ERD(Entity relationship diagram)
+<img width="742" height="371" alt="Maven_Electronics_data_ERD" src="https://github.com/user-attachments/assets/a85360e1-aad3-4f10-a43e-3c828df8ab22" />
 
 ## Insight Deep Dives 
 ## I. Sales Analysis

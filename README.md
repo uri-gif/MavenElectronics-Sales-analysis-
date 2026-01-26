@@ -1,3 +1,4 @@
+## **Ecommerce Perfomance Report** 
 ## Client Summary ##
 Maven Electronics is a US-based e-commerce company that sells popular consumer electronics and accessories to a global clientele. Established in 2016, the company has grown and expanded in the last few years, it has encountered increasing competition from peer companies as well as unique challenges and opportunities brought on by the COVID-19 pandemic.
 
@@ -13,7 +14,7 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 
 **Regional results - Evaluating regional demand and product performance within regions to identify areas for improvement.**
 
-## **EXECUTIVE SUMMARY**
+## **Executive Summary**
 <img width="1500" height="754" alt="image" src="https://github.com/user-attachments/assets/13a5b8f0-b97f-4325-8ea4-d9dee163ee96" />
 
 **1. Revenue Growth and Peak Performance**

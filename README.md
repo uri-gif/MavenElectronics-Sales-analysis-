@@ -4,7 +4,7 @@ Maven Electronics is a US-based e-commerce company that sells popular consumer e
 TechSphere's book of business is approaching 15,260 customers and possesses over 26,326 transactions, generating sales revenue exceeding $55 million. The available eCommerce data spans various dimensions and metrics, including sales, products, sales by regions, calendar and the company's store.
 
 Reporting to the Head of Operations, an in-depth analysis was conducted to evaluate Maven Electronic’s performance over the past several years (2016–2021). This comprehensive review provides valuable insights that internal cross-functional teams will utilize to streamline processes and enhance Maven Electronics’ commercial performance. The key insights and recommendations focus on the following areas:
-## North Star Metric ##
+### North Star Metric ###
 Sales trends - Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV).
 Product performance - Analyzing different product categories, market impact,  to inform strategic product decisions.
 Regional results - Evaluating regional demand and product performance within regions to identify areas for improvement.
@@ -43,9 +43,8 @@ Regional results - Evaluating regional demand and product performance within reg
 
 ## Insight Deep Dives 
 ## I. Sales Analysis
-<img width="330" height="600" alt="image" src="https://github.com/user-attachments/assets/e667eedd-34cf-4b65-a494-b49dc06bec68" /><img width="330" height="600" alt="image" src="https://github.com/user-attachments/assets/5eae5a85-0d9b-4393-b20b-ee2c10fe7a85" /><img width="330" height="600" alt="image" src="https://github.com/user-attachments/assets/ca59df53-c992-4e32-a071-2de2fb5f951c" />
-
 **1) Sales Trends**
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/e667eedd-34cf-4b65-a494-b49dc06bec68" />
 • From 2016 to 2019, sales followed a strong upward trajectory, particularly in Q4, with December consistently recording the highest revenue.
 
 •	Revenue peaked at $2.5M in December 2019, followed by a 73.7% decline in December 2020 ($651K), reflecting a major shift in purchasing behavior due to the pandemic.
@@ -55,6 +54,7 @@ Regional results - Evaluating regional demand and product performance within reg
 •	While December 2020 showed a modest uptick, likely driven by the holiday season, it remained significantly below historical levels, and the downward trend persisted into February 2021.
 
 **2) Average Order Value (AOV)**
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/5eae5a85-0d9b-4393-b20b-ee2c10fe7a85" />
 •	AOV declined steadily from $2.4K in 2016 to approximately $2.0K by early 2020, indicating that customers spent less per transaction over time.
 
 •	Despite declining AOV, overall revenue growth prior to 2020 suggests that sales were driven by higher order volumes rather than higher spend per order.
@@ -64,6 +64,7 @@ Regional results - Evaluating regional demand and product performance within reg
 •	In 2020–2021, AOV began to rise again, though Q4 2020 recorded the lowest AOV ($1.8K), signaling reduced holiday spending per transaction.
 
 **3) Order Count**
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/ca59df53-c992-4e32-a071-2de2fb5f951c" />
 •	Order volume closely mirrored revenue trends, confirming that the 2020 revenue decline was primarily driven by fewer orders rather than AOV.
 
 •	Total orders dropped by 49% from 2019 to 2020.

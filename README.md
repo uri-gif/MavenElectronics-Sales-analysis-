@@ -165,7 +165,7 @@ France (2.21%), the Netherlands (2.85%), and Italy (3.69%) consistently contribu
 Computers were the top-performing category across all regions, indicating strong cross-market demand. Standardizing best-selling computer products globally while adapting promotions to local markets can drive scalable revenue growth.
 
 ## Limitations & Assumptions
-**Assumptions
+**Assumptions**
 
 •	Transaction and revenue data were assumed to be accurate and consistently recorded.
 
@@ -175,7 +175,7 @@ Computers were the top-performing category across all regions, indicating strong
 
 •	Product categories were assumed to remain consistent across all years.
 
-**Limitations
+**Limitations**
 
 •	2021 data is incomplete (Jan–Mar only), limiting full-year trend and seasonality analysis.
 

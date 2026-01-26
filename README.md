@@ -1,7 +1,7 @@
 ## Client Summary ##
 Maven Electronics is a US-based e-commerce company that sells popular consumer electronics and accessories to a global clientele. Established in 2016, the company has grown and expanded in the last few years, it has encountered increasing competition from peer companies as well as unique challenges and opportunities brought on by the COVID-19 pandemic.
 
-TechSphere's book of business is approaching 15,260 customers and possesses over 26,326 transactions, generating sales revenue exceeding $55 million. The available eCommerce data spans various dimensions and metrics, including sales, products, sales by regions, calendar and the company's store.
+TechSphere's book of business is approaching **15,260** customers and possesses over **26,326** transactions, generating sales revenue exceeding **$55 million**. The available eCommerce data spans various dimensions and metrics, including sales, products, sales by regions, calendar and the company's store.
 
 Reporting to the Head of Operations, an in-depth analysis was conducted to evaluate Maven Electronic’s performance over the past several years (2016–2021). This comprehensive review provides valuable insights that internal cross-functional teams will utilize to streamline processes and enhance Maven Electronics’ commercial performance. The key insights and recommendations focus on the following areas:
 

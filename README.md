@@ -102,14 +102,15 @@ o	TV & Video (~$1.8K)
 
 •	Categories such as Audio, Games, Music, Movies, and Audiobooks had the lowest AOV and minimal impact on overall revenue.
 
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/307d463f-a340-4753-997b-a30eb1fe9d58" />
+
 **3) Quarterly Heatmap Insights**
 •	Sales spikes consistently occurred in Q4, driven by Black Friday, Cyber Monday, and the Christmas season.
 
 •	Computers and Home Appliances were the strongest Q4 performers.
 
 •	Sales typically dipped in Q1, following the holiday season.
-
-<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/307d463f-a340-4753-997b-a30eb1fe9d58" /> <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8f219b31-83a4-47a3-98f8-7c7dc0347f7b" />
+ <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/8f219b31-83a4-47a3-98f8-7c7dc0347f7b" />
 
 ________________________________________
 

@@ -109,7 +109,8 @@ o	TV & Video (~$1.8K)
 
 •	Sales typically dipped in Q1, following the holiday season.
 
-<img width="900" height="506" alt="image" src="https://github.com/user-attachments/assets/307d463f-a340-4753-997b-a30eb1fe9d58" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/307d463f-a340-4753-997b-a30eb1fe9d58" /> <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/8f219b31-83a4-47a3-98f8-7c7dc0347f7b" />
+
 ________________________________________
 
 ##                                                                   Regional Performance
@@ -123,7 +124,9 @@ ________________________________________
 
 ##                                                                        Recommendations
 Based on the uncovered insights, here are actionable steps from our analysis 
+
 **Sales**
+
 •	Mitigate recurring revenue declines in Q2 (February–April) through targeted demand-stimulation strategies.
 Revenue consistently drops between February and April across multiple years, with April showing the lowest performance (e.g., $58.7K in April 2017). This indicates a structural seasonal weakness that should be addressed with targeted promotions and demand planning initiatives.
 
@@ -134,6 +137,7 @@ Q4 remains the strongest revenue-generating quarter across all years, driven pri
 Revenue declines during 2020–2021 were primarily driven by a drop in order count rather than AOV. Total orders declined by approximately 49% from 2019 to 2020, indicating that customer acquisition and retention should be prioritized over increasing basket size alone.
 ________________________________________
 **Product Performance**
+
 •	Prioritize high-performing categories to maximize revenue impact.
 Computers consistently generated the highest revenue across all years, contributing over $19.3M in total sales, followed by Home Appliances ($10.8M). These categories should remain the primary focus for inventory investment, promotions, and featured campaigns.
 
@@ -144,6 +148,7 @@ Games and Toys underperformed across most months and regions, with minimal contr
 Home Appliances ($2.4K AOV) and Computers ($1.9K AOV) are the strongest contributors to overall AOV, while categories such as Audio, Games, and Media have consistently low AOV. Premium pricing strategies should be applied to high-AOV categories, while volume-based promotions should support lower-value products.
 ________________________________________
 **Regional Performance**
+
 •	Defend and expand performance in the U.S. core market.
 The U.S. accounted for approximately 42.6% of total revenue, making it the company’s primary growth driver. Ensuring strong inventory availability, logistics reliability, and targeted regional promotions is critical to sustaining revenue leadership.
 

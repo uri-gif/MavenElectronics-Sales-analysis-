@@ -119,7 +119,7 @@ o	TV & Video (~$1.8K)
 
 ________________________________________
 
-##                                                                   Regional Performance
+## III.                                                                   Regional Performance
 •	The United States was the top-performing market, contributing 42.6% of total revenue, followed by Online sales and the UK.
 
 •	European countries contributed smaller shares, with France (2.21%), Netherlands (2.85%), and Italy (3.69%) among the lowest-performing regions.
@@ -164,9 +164,29 @@ France (2.21%), the Netherlands (2.85%), and Italy (3.69%) consistently contribu
 •	Scale globally successful categories across regions.
 Computers were the top-performing category across all regions, indicating strong cross-market demand. Standardizing best-selling computer products globally while adapting promotions to local markets can drive scalable revenue growth.
 
+## Limitations & Assumptions
+**Assumptions
 
+•	Transaction and revenue data were assumed to be accurate and consistently recorded.
 
+•	2016–2019 performance was used as the pre-pandemic baseline for trend comparison.
 
+•	Revenue declines in 2020–2021 were primarily attributed to COVID-19-related market disruptions.
+
+•	Product categories were assumed to remain consistent across all years.
+
+**Limitations
+
+•	2021 data is incomplete (Jan–Mar only), limiting full-year trend and seasonality analysis.
+
+•	Marketing spend, promotions, and discount data were not available, restricting campaign impact analysis.
+
+•	Limited customer segmentation data prevented advanced customer behavior and lifecycle analysis.
+
+•	External market factors (inflation, competition, supply chain issues) were not included.
+
+## Conclusions 
+While the analysis provides strong directional insights into sales performance, seasonality, and product trends, results should be interpreted alongside operational, marketing, and financial data to support more precise strategic decision-making.
 
 
 

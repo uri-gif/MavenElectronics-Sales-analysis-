@@ -1,0 +1,38 @@
+The Star Schema ⭐
+Fact Table: Sales
+Dimension Tables: Customers, Products, Stores, Exchange_Rates, Calendar
+
+### Primary Keys (PKs)
+
+These uniquely identify each record in their respective tables:
+Customers → CustomerKey
+Products → ProductKey
+Stores → StoreKey
+Exchange_Rates → ExchangedKey 
+Calendar → Date
+
+### Foreign Keys (FKs)
+
+These are located in the Sales1 (fact table) and link to dimensions:
+CustomerKey → references Customers.CustomerKey
+ProductKey → references Products.ProductKey
+StoreKey → references Stores.StoreKey
+ExchangedKey → references Exchange_Rates.ExchangedKey
+Order Date (or Delivery Date depending on active relationship) → references Calendar.Date
+
+### Cardinalities (Relationships)
+
+All relationships follow a 1-to-Many (1:*) structure:
+Customers1 (1) → Sales1 (*)
+One customer can have multiple sales
+Products1 (1) → Sales1 (*)
+One product can appear in multiple sales
+Stores1 (1) → Sales1 (*)
+One store can generate multiple sales
+Exchange_Rates1 (1) → Sales1 (*)
+One exchange rate entry can apply to multiple sales
+
+The data model follows a star schema design, with the Sales table as the central fact table connected to multiple dimension 
+tables through one-to-many relationships. Primary keys in dimension tables are linked to corresponding foreign keys in the fact
+table, ensuring referential integrity andenabling efficient slicing of data across customer, product, store, time, and currency 
+dimensions.

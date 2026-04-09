@@ -1,0 +1,17 @@
+Tools and Methodology 
+
+For data cleanning, I used Excel ( Power query for data cleaning and Power pivot to calculate new measures and create connection 
+between all the tables)
+
+-Irrelevant fields such as the zip code column were removed to streamline the dataset. Text standardization was applied by 
+transforming the city field to ensure consistent capitalization.
+-A new calculated column was created to determine customer age by deriving the duration from the birthdate, converting it into years,
+and rounding it to the nearest whole number. Building on this, a conditional column was introduced to segment customers into age 
+groups (Young Adult, Adult, Senior) based on defined business logic, enabling more meaningful demographic analysis.
+-To support time-based analysis, a dedicated calendar table was created containing a continuous range of dates aligned with the 
+sales data. 
+-Additional date-related attributes, including day name, start of week, start of month, start of quarter, and year, were generated 
+to enhance data slicing and support multidimensional analysis within Power Pivot. This structured approach ensured that the dataset 
+was clean, consistent, and optimized for accurate reporting and insightful analysis.
+-No relevant duplicates and missing values found .
+-Data types for each variables were checked.

@@ -1,7 +1,6 @@
 Tools and Methodology 
 
-For data cleanning, I used Excel ( Power query for data cleaning and Power pivot to calculate new measures and create connection 
-between all the tables)
+For data cleanning, I used Excel ( Power query for data cleaning and Power pivot to calculate new measures)
 
 -Irrelevant fields such as the zip code column were removed to streamline the dataset. Text standardization was applied by 
 transforming the city field to ensure consistent capitalization.
